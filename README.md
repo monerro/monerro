@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/knockemsockem/knockemsockem/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/knockemsockem/knockemsockem/output/snake.svg](https://github.com/knockemsockem/knockemsockem/blob/output/github-contribution-grid-snake-dark.svg)" alt="Snake animation" />
 
 ###
 
