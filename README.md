@@ -2,7 +2,8 @@
 
 ###
 
-<h4 align="left">projects include discord RAT,  selfcoded website, and a github commit bot.    <br>         https://monerro.github.io/lol/</h4>
+<h4 align="left">Projects include [Discord RAT](https://github.com/monerro/discord-rat), [selfcoded website](https://github.com/monerro/selfcoded-website), and [GitHub commit bot](https://github.com/monerro/github-commit-bot).
+.    <br>         https://monerro.github.io/lol/</h4>
 
 ###
 
