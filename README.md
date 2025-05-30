@@ -2,9 +2,15 @@
 
 ###
 
-<h4 align="left"> Projects include [Discord RAT](https://github.com/monerro/discord-rat), [selfcoded website](https://github.com/monerro/selfcoded-website), and [GitHub commit bot](https://github.com/monerro/github-commit-bot). <br>         https://monerro.github.io/lol/</h4>
+<h4 align="left">
+  Projects include 
+  <a href="https://github.com/monerro/discord-rat">Discord RAT</a>, 
+  <a href="https://github.com/monerro/selfcoded-website">selfcoded website</a>, and 
+  <a href="https://github.com/monerro/github-commit-bot">GitHub commit bot</a>.
+  <br>
+  <a href="https://monerro.github.io/lol/">https://monerro.github.io/lol/</a>
+</h4>
 
-[Link Text](https://github.com/USERNAME/REPOSITORY)
 
 ###
 
