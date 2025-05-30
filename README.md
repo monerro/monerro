@@ -4,7 +4,7 @@
 
 <h4 align="left">
   Projects include 
-  <a href="https://github.com/monerro/discord-rat">Discord RAT</a>, 
+  <a href="https://github.com/monerro/lammat">Discord RAT</a>, 
   <a href="https://github.com/monerro/selfcoded-website">selfcoded website</a>, and 
   <a href="https://github.com/monerro/github-commit-bot">GitHub commit bot</a>.
   <br>
