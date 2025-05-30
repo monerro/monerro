@@ -6,7 +6,7 @@
   Projects include 
   <a href="https://github.com/monerro/lamma">Discord RAT</a>, 
   <a href="https://github.com/monerro/lol">selfcoded website</a>, and 
-  <a href="https://github.com/monerro/github-commit-bot">GitHub commit bot</a>.
+  <a href="https://github.com/monerro/commit-bot">GitHub commit bot</a>.
   <br>
   <a href="https://monerro.github.io/lol/">https://monerro.github.io/lol/</a>
 </h4>
